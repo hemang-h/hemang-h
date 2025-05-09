@@ -3,8 +3,8 @@
 ============================ -->
 <div align="center">
   <h1>👋 Hey there, I'm Hemang!</h1>
-   <p>DeFi Developer | AI Facilitator | Cryptography Researcher</p>
-  <p>Your friendly neighborhood Blockchain & AI wizard.</p>  
+   <p>DeFi Developer🦄 | AI Facilitator🤖 | Cryptography Researcher🧑‍🔬</p>
+  <p>....🧑‍💻I know you want me 🪩....</p>  
 <!--   <img src="https://komarev.com/ghpvc/?username=hemang-h&color=blue&style=flat-square" alt="Profile Views"/> -->
 </div>
 
@@ -32,21 +32,11 @@ I’m **Hemang Hemant Joshi**, passionate about pioneering **Web3** & **AI** inn
 ## 🛠️ Skills & Tools (aka My Arsenal)  
 
 ### Languages & Frameworks  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 
 ### Platforms & Security Tools  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Foundry](https://img.shields.io/badge/Foundry-3B3B3B?style=for-the-badge&logo=ethereum&logoColor=white)  
-![ZoKrates](https://img.shields.io/badge/ZoKrates-3C3C3D?style=for-the-badge&logo=zkproof&logoColor=white)  
-![Echidna](https://img.shields.io/badge/Echidna-F05032?style=for-the-badge&logo=echidna&logoColor=white)  
-![Anchor](https://img.shields.io/badge/Anchor-2081e2?style=for-the-badge&logo=solana&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=white)  ![Foundry](https://img.shields.io/badge/Foundry-3B3B3B?style=for-the-badge&logo=ethereum&logoColor=white)  ![ZoKrates](https://img.shields.io/badge/ZoKrates-3C3C3D?style=for-the-badge&logo=zkproof&logoColor=white)  ![Echidna](https://img.shields.io/badge/Echidna-F05032?style=for-the-badge&logo=echidna&logoColor=white)  ![Anchor](https://img.shields.io/badge/Anchor-2081e2?style=for-the-badge&logo=solana&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
