@@ -5,7 +5,7 @@
   <h1>👋 Hey there, I'm Hemang!</h1>
    <p>DeFi Developer | AI Facilitator | Cryptography Researcher</p>
   <p>Your friendly neighborhood Blockchain & AI wizard.</p>  
-  <img src="https://komarev.com/ghpvc/?username=hemang-h&color=blue&style=flat-square" alt="Profile Views"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=hemang-h&color=blue&style=flat-square" alt="Profile Views"/> -->
 </div>
 
 ---
